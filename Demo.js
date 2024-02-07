@@ -1,0 +1,1 @@
+document.write('<div id="fb-root"></div>');
